@@ -2,3 +2,7 @@ print("Hello")
 
 print(2/3)
 print("This is a divide function")
+
+
+print(2+3)
+print("This is add function")
