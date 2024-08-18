@@ -14,6 +14,7 @@ print(2-3)
 print("This is minus function")
 
 print("Hello")
+print("Hello 2")
 
 
 
